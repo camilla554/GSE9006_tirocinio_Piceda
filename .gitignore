@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.egg-info/
+dist/
+build/
+
+# IDE
+.idea/
+*.iml
+.vscode/
+
+# Environment
+.venv/
+venv/
+.env
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Large raw data (can be re-downloaded)
+*.gz
+*.zip
