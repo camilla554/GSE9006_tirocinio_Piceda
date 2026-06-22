@@ -1,0 +1,27 @@
+{
+  "boruta_confermati": 46,
+  "boruta_rigettati": 13456,
+  "bootstrap_elastic_net": 500,
+  "top_geni_en": [
+    "EGR2",
+    "LPIN2",
+    "CCR1",
+    "CSDE1",
+    "RNF38",
+    "KIAA0319L",
+    "UCHL3",
+    "ZNF473",
+    "HLA-DQA1 /// HLA-DQA2 /// LOC100509457",
+    "RNF25",
+    "IL23A",
+    "NGLY1",
+    "PPP2R5E",
+    "RALBP1",
+    "SUMO3",
+    "HLA-DRB4",
+    "TMEM185B",
+    "SUZ12",
+    "PRG3",
+    "PNP"
+  ]
+}

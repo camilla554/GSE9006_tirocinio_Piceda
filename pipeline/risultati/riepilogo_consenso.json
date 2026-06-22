@@ -1,0 +1,23 @@
+{
+  "totale_geni_unici_deg": 87,
+  "boruta_confermati": 46,
+  "geni_candidati": 15,
+  "dimensione_pannello_finale": 15,
+  "geni_pannello_finale": [
+    "EGR2",
+    "HLA-DRB4",
+    "FOSB",
+    "IL1B",
+    "EGR3",
+    "PTGS2",
+    "KIAA0319L",
+    "IGLC1 /// IGLV3-10 /// IGLV3-10",
+    "HLA-DQA1 /// LOC100509457",
+    "HCAR3",
+    "RNF25",
+    "KRT23",
+    "CCR1",
+    "PRG3",
+    "CXCR1"
+  ]
+}
